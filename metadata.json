@@ -1,0 +1,5 @@
+{
+  "name": "AI Book Analyst",
+  "description": "An AI-powered tool that provides detailed summaries, core themes, key takeaways, notable quotes, and recommendations for any book title. Simply enter a book title to get a comprehensive analysis.",
+  "requestFramePermissions": []
+}
